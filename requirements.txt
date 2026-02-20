@@ -1,0 +1,11 @@
+matplotlib
+numpy
+onnxruntime
+pandas
+pillow
+plotly
+scikit-learn
+seaborn
+streamlit
+torch
+torchvision
